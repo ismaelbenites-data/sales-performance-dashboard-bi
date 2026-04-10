@@ -85,4 +85,4 @@ Este projeto foi desenvolvido como parte do meu portfólio em **Análise de Dado
 - Modelagem dimensional  
 - Construção de dashboards no Power BI  
 - Análise de indicadores de negócio
-- 
+
