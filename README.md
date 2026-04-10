@@ -64,7 +64,7 @@ Essa estrutura permite análises por diferentes perspectivas, como vendedor, loj
 ![Dashboard](images/cover_dashboard.png)
 
 ### 🧠 Modelagem de Dados
-![Modelagem](images/data_sales.png)
+![Modelagem](images/data_model.png)
 
 ---
 
