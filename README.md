@@ -61,10 +61,10 @@ Essa estrutura permite análises por diferentes perspectivas, como vendedor, loj
 ## 📸 Preview do Dashboard
 
 ### 📊 Visão Geral
-![Dashboard](images/capa.png)
+![Dashboard](images/cover_dashboard.png)
 
 ### 🧠 Modelagem de Dados
-![Modelagem](images/modelagem.png)
+![Modelagem](images/data_sales.png)
 
 ---
 
